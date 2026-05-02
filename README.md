@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ethan.
 
-My research interest lies within the intersection of machine learning and security and privacy.
+I am interested in generative models, methods to control them, and the role inference-time algorithms play in unlocking creative uses of foundation models.
 
-I recently graduated from Carnegie Mellon University with a B.S. in Electrical and Computer Engineering. Previously, I was a
+I graduated with a B.S (2025) and M.S (2026) in Electrical and Computer Engineering from [Carnegie Mellon University](https://www.ece.cmu.edu/). Previously, I was a
 
-* Software Developer Engineer Intern at [Amazon](https://www.aboutamazon.com/)
+* Software Development Engineer Intern at [Amazon](https://www.aboutamazon.com/)
